@@ -1,0 +1,17 @@
+users
+areas
+groups
+
+users_groups
+    uid, gid
+
+areas_groups
+    aid, gid
+
+
+Access
+    aid, gid, timeframe
+    timeframe [{ day: M-S, time: AM/PM }]
+
+
+https://themes.getbootstrap.com/preview/?theme_id=120099
